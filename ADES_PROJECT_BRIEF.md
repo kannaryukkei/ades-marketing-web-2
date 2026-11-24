@@ -7,8 +7,8 @@
 ## 1. Project control
 
 - Project / business: ADES Marketing Website — internal studio development.
-- Product Profile: `starter` is named as selected in the supplied project intake; ADES Starter, version `0.1.0`, status CURRENT PROVEN PRODUCTION BASELINE; Core path `products/starter/PRODUCT_PROFILE.md`. Separate explicit operator confirmation has not yet been captured.
-- Project entry path: `new_build` (stated in supplied project intake; separate explicit operator confirmation has not yet been captured).
+- Product Profile: `starter` — explicitly selected in the supplied Client Intake; ADES Starter, version `0.1.0`, status CURRENT PROVEN PRODUCTION BASELINE; Core path `products/starter/PRODUCT_PROFILE.md`.
+- Project entry path: `new_build` — explicitly selected in the supplied Client Intake.
 - Website repository: https://github.com/kannaryukkei/ades-marketing-web-2
 - Repository state at G0 check: public; default branch `main`; repository size 0; no branches or commits returned; no website source files yet. GitHub connector permissions: admin/push/pull verified.
 - Local clone: operator reports clone at `C:\\Users\\Aman Nauli\\downloads\\ades-marketing-web-2`; operator verified current PowerShell location. Local working-tree/remote configuration not independently inspected by Lead.
@@ -22,12 +22,12 @@
 - Evaluators / Synthesizer: NONE / NOT_APPLICABLE under `single_agent_end_to_end`; self-assessment only, never an independent jury.
 - External roster: none selected or required by this mode.
 - Lead capability map: ChatGPT conversation and uploaded-file reading available; GitHub connector repository read/write available and permission verified; web research available; image generation available; no direct access to operator's local filesystem, local terminal, Antigravity runtime, or live browser automation established. Browser-rendered QA capability must be verified before QA; do not claim it is available.
-- Coding environment: Antigravity on operator's Windows machine. UI UX Pro Max CLI `2.15.0` installed locally in the website repository with `uipro.cmd init --ai antigravity`; `.agents/skills/ui-ux-pro-max/SKILL.md` existence test returned `True`; skill directory structure verified. Antigravity restart and actual skill discovery/loading: NOT_VERIFIED.
+- Coding environment: Antigravity on operator's Windows machine. UI UX Pro Max CLI `2.15.0` installed locally in the website repository with `uipro.cmd init --ai antigravity`; `.agents/skills/ui-ux-pro-max/SKILL.md` existence test returned `True`; skill directory structure verified. Operator-provided Antigravity response reports that it successfully read `C:\\Users\\Aman Nauli\\Downloads\\ades-marketing-web-2\\.agents\\skills\\ui-ux-pro-max\\SKILL.md` and recognized all project-local skill folders. Initial directory-listing attempts exited with code 1 and an invalid-output error occurred, but the final explicit file-read and skill inventory succeeded. Instruction loading: VERIFIED by operator-provided Antigravity output; runtime execution of search.py and actual design-system search: NOT_VERIFIED.
 - Artifact transfer: operator terminal output pasted into this Lead conversation; repository artifacts can be committed through the connected GitHub integration; local Antigravity changes require operator-provided evidence or GitHub push.
 - Current branch / commit: NOT_CREATED / NOT_CREATED (remote repository empty at verification).
 - Current stage: G0 — Project activation, IN_PROGRESS.
 - Overall status: IN_PROGRESS.
-- Last verified state: operator confirmed Lead appointment; GitHub repository metadata and branch search rechecked 2026-11-25; local UI UX Pro Max structure and SKILL.md existence verified from operator terminal output.
+- Last verified state: operator confirmed Lead appointment; GitHub repository metadata and branch search rechecked 2026-11-25; local UI UX Pro Max structure and SKILL.md existence verified from operator terminal output; Antigravity's successful read of the project-local SKILL.md and skill inventory reported by operator on 2026-11-25.
 - Next action: create/verify the first repository commit containing this Brief; verify Antigravity restart and skill discovery; then complete remaining G0 capability and transfer checks.
 - Approval required: no R1 or design direction approval has been given; no deployment, DNS, spending, third-party contact, or public release authorized.
 
@@ -68,7 +68,7 @@
 
 | Gate | Status | Evidence / blocker |
 |---|---|---|
-| G0 — Project activation | IN_PROGRESS | Entry path, business mode, ADES mode and Lead/Execution Agent appointment recorded; Core baseline and repo identity/access verified; local skill structure verified. Antigravity instruction loading and full capability/transfer checks remain NOT_VERIFIED; website repo has no initial commit yet. |
+| G0 — Project activation | IN_PROGRESS | Entry path, business mode, ADES mode and Lead/Execution Agent appointment recorded; Core baseline and repo identity/access verified; local skill structure verified. Antigravity project-local skill instruction loading is now VERIFIED from operator-provided output; search.py execution and browser QA capability remain NOT_VERIFIED. The initial website-repo commit now exists and contains the active Brief. |
 | G1 — Discovery & scope ready | NOT_STARTED | PRD and remaining business facts/decisions not yet resolved or approved. |
 | G2 — Exploration and mode-correct R3 decision | NOT_STARTED | Common Research Pack not frozen; R1 not authorized; no direction approval. |
 | G3 — Build ready for QA | NOT_STARTED | No website implementation. |
