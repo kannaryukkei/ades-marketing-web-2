@@ -99,6 +99,9 @@
 - V0 → meaningful V1 correction → re-verification: NOT_STARTED.
 - Security: apply ADES Core Security & Deployment Standard proportionately; no live deployment checks claimed.
 
+## Pricing presentation — latest operator decision
+- Operator's later decision on 2026-11-25 supersedes the earlier instruction to display the two starting-price figures as public package prices: package prices should be presented as estimates, and visitors should consult ADES to receive a tailored quotation. Do not present a starting figure as a fixed or guaranteed package price. Whether indicative starting figures may still appear alongside an estimate disclaimer is NOT_YET_CONFIRMED and must be resolved in the PRD.
+
 ## 7. Handover and release
 
 - Local runbook: NOT_CREATED.
