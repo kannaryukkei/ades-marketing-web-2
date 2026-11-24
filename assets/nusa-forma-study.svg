@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1350" role="img" aria-labelledby="title desc">
+<title id="title">Nusa Forma — interior concept study</title><desc id="desc">A warm editorial composition of an imagined contemporary living space, modular furniture, architectural arches and natural material swatches.</desc>
+<defs>
+ <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9dfcf"/><stop offset="1" stop-color="#c8b6a0"/></linearGradient>
+ <linearGradient id="sofa" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b9a18a"/><stop offset="1" stop-color="#8d7763"/></linearGradient>
+ <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b59d83"/><stop offset="1" stop-color="#8c7762"/></linearGradient>
+ <pattern id="grain" width="140" height="140" patternUnits="userSpaceOnUse"><circle cx="9" cy="17" r="1" fill="#fff" opacity=".2"/><circle cx="89" cy="57" r=".8" fill="#594c3f" opacity=".13"/><circle cx="43" cy="119" r=".7" fill="#fff" opacity=".2"/></pattern>
+ <clipPath id="arch"><path d="M170 760V385C170 205 315 90 505 90s335 115 335 295v375Z"/></clipPath>
+</defs>
+<rect width="1600" height="1350" fill="#d8cbbb"/>
+<rect x="54" y="54" width="1492" height="1242" fill="url(#wall)"/>
+<rect x="54" y="54" width="1492" height="1242" fill="url(#grain)"/>
+<path d="M54 930H1546V1296H54Z" fill="url(#floor)"/>
+<path d="M54 930H1546" stroke="#7d6b58" stroke-width="3" opacity=".4"/>
+<g clip-path="url(#arch)">
+ <rect x="170" y="90" width="670" height="670" fill="#d7c2a8"/>
+ <rect x="170" y="90" width="670" height="670" fill="#a7a28a" opacity=".18"/>
+ <path d="M210 700 390 360 575 700Z" fill="#c1a98e" opacity=".55"/>
+ <path d="M560 700 735 330 850 700Z" fill="#9d9c83" opacity=".45"/>
+ <path d="M340 90V760M675 90V760" stroke="#eee4d6" stroke-width="3" opacity=".35"/>
+</g>
+<path d="M170 760V385C170 205 315 90 505 90s335 115 335 295v375" fill="none" stroke="#f4eadb" stroke-width="13"/>
+<path d="M930 170h450v520H930z" fill="#e8dece" opacity=".65"/>
+<path d="M960 200h390v420H960z" fill="#b8ad9a"/>
+<path d="M980 220h350v380H980z" fill="#d9cdb9"/>
+<path d="M1155 220v380M980 390h350" stroke="#b4a58f" stroke-width="4"/>
+<path d="M1020 565c50-115 112-170 170-170 55 0 100 45 140 135" fill="none" stroke="#7e8772" stroke-width="12" opacity=".6"/>
+<!-- side table -->
+<path d="M1285 820h175l-18 155h-140z" fill="#6d6357"/>
+<path d="M1270 810h205v24h-205z" fill="#4e4a40"/>
+<path d="M1320 975v-110M1430 975V865" stroke="#4e4a40" stroke-width="12"/>
+<!-- plant -->
+<path d="M1370 810q-10-150 35-280M1390 810q55-155 100-190M1370 810q-65-130-120-155" fill="none" stroke="#66735f" stroke-width="12" stroke-linecap="round"/>
+<g fill="#7d8b72"><ellipse cx="1395" cy="580" rx="24" ry="75" transform="rotate(14 1395 580)"/><ellipse cx="1490" cy="610" rx="26" ry="82" transform="rotate(42 1490 610)"/><ellipse cx="1260" cy="650" rx="25" ry="83" transform="rotate(-42 1260 650)"/><ellipse cx="1360" cy="690" rx="22" ry="70" transform="rotate(-20 1360 690)"/></g>
+<path d="M1330 790h110l-12 85h-86z" fill="#a77d5f"/>
+<!-- rug -->
+<ellipse cx="825" cy="1110" rx="530" ry="105" fill="#d7c7b1" opacity=".72"/>
+<ellipse cx="825" cy="1110" rx="475" ry="78" fill="none" stroke="#aa9780" stroke-width="3" opacity=".6"/>
+<!-- modular sofa -->
+<path d="M360 825q0-45 55-45h610q55 0 55 55v210H360Z" fill="url(#sofa)"/>
+<path d="M360 885q0-70 70-70h540q75 0 75 70v125H360Z" fill="#bca58e"/>
+<path d="M405 835h280v175H405z" fill="#c5b09a"/>
+<path d="M695 835h285v175H695z" fill="#a99179"/>
+<path d="M360 880h-55q-35 0-35 45v145h130V925q0-45-40-45ZM1030 880h55q35 0 35 45v145H990V925q0-45 40-45Z" fill="#907a65"/>
+<path d="M390 1030v45M1000 1030v45" stroke="#5f5347" stroke-width="15"/>
+<path d="M455 850q55 50 0 105M735 850q55 50 0 105" fill="none" stroke="#8c7764" stroke-width="2" opacity=".5"/>
+<!-- cushions -->
+<path d="M500 770q75-35 140 8l-10 112q-70 30-145-12z" fill="#e2d5c4"/>
+<path d="M760 772q75-25 130 18l-10 110q-72 25-130-18z" fill="#7d8675"/>
+<!-- floor light and table -->
+<path d="M190 915v-320" stroke="#514d44" stroke-width="13"/>
+<path d="M130 600q60-120 120 0z" fill="#d8c7ac" stroke="#514d44" stroke-width="5"/>
+<path d="M140 920h100" stroke="#514d44" stroke-width="10"/>
+<ellipse cx="820" cy="1025" rx="180" ry="35" fill="#6d5948"/>
+<path d="M700 1025h240l-35 95H735z" fill="#806b58"/>
+<path d="M730 1120v35M910 1120v35" stroke="#5c4c3d" stroke-width="12"/>
+<!-- material swatches -->
+<g transform="translate(1110 1020)">
+ <rect width="310" height="180" fill="#eee7db" opacity=".95"/>
+ <rect x="16" y="16" width="78" height="78" fill="#b89a7d"/><rect x="108" y="16" width="78" height="78" fill="#7b8270"/><rect x="200" y="16" width="94" height="78" fill="#d8c9b3"/>
+ <rect x="16" y="108" width="132" height="54" fill="#75695d"/><rect x="160" y="108" width="134" height="54" fill="#c1b4a0"/>
+</g>
+<!-- typography -->
+<g fill="#252720">
+ <text x="110" y="150" font-family="Arial,sans-serif" font-size="26" letter-spacing="9">NUSA FORMA / CONCEPT INTERIOR</text>
+ <text x="110" y="245" font-family="Georgia,serif" font-size="92" letter-spacing="-5">Quiet forms,</text>
+ <text x="110" y="335" font-family="Georgia,serif" font-size="92" font-style="italic" letter-spacing="-5">lasting feeling.</text>
+ <text x="110" y="1245" font-family="monospace" font-size="16" letter-spacing="4">MATERIAL STUDY  /  001                                      A HOME FOR THE ESSENTIAL</text>
+</g>
+<path d="M110 375h1320" stroke="#5b554a" stroke-width="2" opacity=".55"/>
+<text x="1120" y="760" fill="#f5eee4" font-family="monospace" font-size="15" letter-spacing="3">FORM / LIGHT / BALANCE</text>
+<rect x="54" y="54" width="1492" height="1242" fill="none" stroke="#f5eee4" stroke-width="2"/>
+</svg>
