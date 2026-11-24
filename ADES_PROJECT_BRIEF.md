@@ -7,8 +7,8 @@
 ## 1. Project control
 
 - Project / business: ADES Marketing Website — internal studio development.
-- Product Profile: `starter` — explicitly selected in the supplied Client Intake; ADES Starter, version `0.1.0`, status CURRENT PROVEN PRODUCTION BASELINE; Core path `products/starter/PRODUCT_PROFILE.md`.
-- Project entry path: `new_build` — explicitly selected in the supplied Client Intake.
+- Product Profile: `starter` — explicitly confirmed by operator on 2026-11-25; ADES Starter, version `0.1.0`, status CURRENT PROVEN PRODUCTION BASELINE; Core path `products/starter/PRODUCT_PROFILE.md`.
+- Project entry path: `new_build` — explicitly confirmed by operator on 2026-11-25.
 - Website repository: https://github.com/kannaryukkei/ades-marketing-web-2
 - Repository state at G0 check: public; default branch `main`; repository size 0; no branches or commits returned; no website source files yet. GitHub connector permissions: admin/push/pull verified.
 - Local clone: operator reports clone at `C:\\Users\\Aman Nauli\\downloads\\ades-marketing-web-2`; operator verified current PowerShell location. Local working-tree/remote configuration not independently inspected by Lead.
@@ -27,8 +27,8 @@
 - Current branch / commit: NOT_CREATED / NOT_CREATED (remote repository empty at verification).
 - Current stage: G0 — Project activation, IN_PROGRESS.
 - Overall status: IN_PROGRESS.
-- Last verified state: operator confirmed Lead appointment; GitHub repository metadata and branch search rechecked 2026-11-25; local UI UX Pro Max structure and SKILL.md existence verified from operator terminal output; Antigravity's successful read of the project-local SKILL.md and skill inventory reported by operator on 2026-11-25; Python 3.15.1 and search.py CLI help startup verified by operator on 2026-11-25.
-- Next action: create/verify the first repository commit containing this Brief; verify Antigravity restart and skill discovery; then complete remaining G0 capability and transfer checks.
+- Last verified state: operator confirmed Lead appointment, Product Profile `starter`, and entry path `new_build` on 2026-11-25; GitHub repository metadata and branch search rechecked 2026-11-25; local UI UX Pro Max structure and SKILL.md existence verified from operator terminal output; Antigravity's successful read of the project-local SKILL.md and skill inventory reported by operator on 2026-11-25; Python 3.15.1 and search.py CLI help startup verified by operator on 2026-11-25.
+- Next action: verify Antigravity workspace activation instructions are present and loaded; verify repository/working-tree state and remaining environment/capability/transfer checks; then complete G0.
 - Approval required: no R1 or design direction approval has been given; no deployment, DNS, spending, third-party contact, or public release authorized.
 
 ## 2. Business and visitor outcome
@@ -68,7 +68,7 @@
 
 | Gate | Status | Evidence / blocker |
 |---|---|---|
-| G0 — Project activation | IN_PROGRESS | Entry path, business mode, ADES mode and Lead/Execution Agent appointment recorded; Core baseline and repo identity/access verified; local skill structure verified. Antigravity project-local skill instruction loading is VERIFIED from operator-provided output; Python and search.py CLI startup are VERIFIED (`--help`); substantive search execution and browser QA capability remain NOT_VERIFIED. The initial website-repo commit now exists and contains the active Brief. |
+| G0 — Project activation | IN_PROGRESS | Entry path, business mode, ADES mode and Lead/Execution Agent appointment recorded; Core baseline and repo identity/access verified; local skill structure verified. Antigravity project-local skill instruction loading is VERIFIED from operator-provided output; Python and search.py CLI startup are VERIFIED (`--help`); substantive search execution and browser QA capability remain NOT_VERIFIED. The initial website-repo commit now exists and contains the active Brief. Operator explicitly confirmed `starter` and `new_build` on 2026-11-25. |
 | G1 — Discovery & scope ready | NOT_STARTED | PRD and remaining business facts/decisions not yet resolved or approved. |
 | G2 — Exploration and mode-correct R3 decision | NOT_STARTED | Common Research Pack not frozen; R1 not authorized; no direction approval. |
 | G3 — Build ready for QA | NOT_STARTED | No website implementation. |
