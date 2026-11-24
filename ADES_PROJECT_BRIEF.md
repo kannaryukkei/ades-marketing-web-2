@@ -28,14 +28,14 @@
 - Current stage: G1 — Intake, discovery and strategy, IN_PROGRESS (G0 PASS).
 - Overall status: IN_PROGRESS.
 - Last verified state: operator confirmed Lead appointment, Product Profile `starter`, and entry path `new_build`; business mode `studio_development`; ADES mode `single_agent_end_to_end`; exact Lead/Execution Agent identity and non-applicable jury roster recorded. Core default branch `main` latest commit verified as `f27b65bf0264d2f01cc4d98e764ea9777e3153b8`; Guide, Core Brief template, Core Client Intake, Security Standard and Starter Profile fetched from that revision, with canonical hashes consistent with the previously verified baseline. Website repo `main` head verified as `d043dd29e02209cd253da8dc299999233054e4c3`; active Brief read/write verified. Current ChatGPT Lead workspace context and tool capabilities recorded. Operator-provided UI UX Pro Max CLI 2.15.0/Python 3.15.1 verification and `landing.csv` search returning 3 records retained as local environment evidence.
-- Next action: use the re-supplied personalized Client Intake as the current discovery source without re-asking confirmed fields; resolve only its [PERLU KONFIRMASI] items one focused decision at a time; prepare the exact PRD only after sufficient discovery.
+- Next action: continue resolving the remaining [PERLU KONFIRMASI] items in the active Client Intake one focused decision at a time; do not re-ask confirmed audience/geography. Prepare the exact PRD only after sufficient discovery.
 - Approval required: no R1 or design direction approval has been given; no deployment, DNS, spending, third-party contact, or public release authorized.
 
 ## 2. Business and visitor outcome
 
 - Offer: ADES provides website design and development supported by AI-assisted research, design exploration, synthesis, frontend implementation, QA and deployment preparation.
-- Primary audience: Intake recommends UMKM and local service/professional businesses needing a credible website and inquiry path; this is a recommendation, not an operator-approved target. Exact first segment remains to be confirmed.
-- Market: Surabaya, Indonesia is the confirmed operating base; public service geography (Surabaya/Sidoarjo, nationwide remote, or both) remains unresolved.
+- Primary audience: operator selected UMKM across industries as the initial audience on 2026-11-25. The specific sub-segment and message hierarchy remain to be defined in PRD; the Intake's local-service/professional-services framing remains a recommendation, not a restriction.
+- Market: Surabaya, Indonesia is the confirmed operating base; operator confirmed on 2026-11-25 that public service geography is nationwide across Indonesia, delivered remotely. Do not imply that ADES has local offices or in-person coverage throughout Indonesia.
 - Business goal: market ADES services and generate relevant prospective-client inquiries.
 - Primary visitor task: understand ADES offer and package readiness, establish trust, and contact ADES through a real approved channel.
 - Proposed primary conversion: WhatsApp inquiry; official URL/number, public contact identity and response owner are NOT_PROVIDED.
@@ -54,7 +54,7 @@
 - Backend/database/CMS: not required for initial scope according to intake.
 - Language: NOT_CONFIRMED (Indonesian only vs bilingual).
 - Contact details, inquiry owner and response process: NOT_PROVIDED.
-- Target audience/geography: recommendations only; require operator confirmation before public claims.
+- Target audience: operator selected UMKM across industries as the initial audience on 2026-11-25. This is the initial broad segment; sub-segmentation and message prioritization remain for PRD. Public service geography: nationwide Indonesia, remote delivery, explicitly confirmed on 2026-11-25.
 - Starter public price and exact inclusions/revisions: NOT_CONFIRMED.
 - Delivery, source ownership/handover, maintenance, domain and hosting policies: NOT_CONFIRMED.
 - Public name/title/social channels and final logo/brand assets: NOT_PROVIDED.
@@ -69,7 +69,7 @@
 | Gate | Status | Evidence / blocker |
 |---|---|---|
 | G0 — Project activation | PASS | Entry path, business mode, ADES mode, exact Lead/Execution Agent appointment and non-applicable jury roster recorded. Core default branch and latest commit verified; canonical Guide, Brief template, Client Intake, Security Standard and selected Starter Profile fetched from the same revision. Website repository identity, `main` head and active Brief read/write verified. Current ChatGPT Lead workspace contains the ADES operating instructions; no Antigravity persistent instruction setup is required for this selected Lead workspace. GitHub, web research and image-generation capabilities verified; local terminal/browser remain unavailable or NOT_VERIFIED and are not required to begin G1. UI UX Pro Max local CLI and substantive search evidence recorded as optional local reference capability. |
-| G1 — Discovery & scope ready | IN_PROGRESS | Intake reviewed; core business offer and product boundaries captured. Primary audience/segment, public geography, real contact/response owner, commercial terms, language, portfolio rights, brand assets and hosting/operational policies still need resolution. PRD not yet created or approved. |
+| G1 — Discovery & scope ready | IN_PROGRESS | Intake reviewed; core business offer and product boundaries captured. Initial audience confirmed as UMKM across industries and public service geography confirmed as nationwide Indonesia via remote delivery. Real contact/response owner, commercial terms, language, portfolio rights, brand assets and hosting/operational policies still need resolution. PRD not yet created or approved. |
 | G2 — Exploration and mode-correct R3 decision | NOT_STARTED | Common Research Pack not frozen; R1 not authorized; no direction approval. |
 | G3 — Build ready for QA | NOT_STARTED | No website implementation. |
 | G4 — Review accepted | NOT_STARTED | No rendered candidate or operator review. |
