@@ -38,7 +38,7 @@
 - Market: Surabaya, Indonesia is the confirmed operating base; operator confirmed on 2026-11-25 that public service geography is nationwide across Indonesia, delivered remotely. Do not imply that ADES has local offices or in-person coverage throughout Indonesia.
 - Business goal: market ADES services and generate relevant prospective-client inquiries.
 - Primary visitor task: understand ADES offer and package readiness, establish trust, and contact ADES through a real approved channel.
-- Primary conversion: WhatsApp inquiry. Operator supplied and approved WhatsApp Business number `+6281246027946` for website display on 2026-11-25; canonical click destination can use `https://wa.me/6281246027946`. Public contact identity/title and inquiry response owner/hours remain NOT_PROVIDED.
+- Primary conversion: WhatsApp inquiry. Operator supplied and approved WhatsApp Business number `+6281246027946` for website display on 2026-11-25; canonical click destination can use `https://wa.me/6281246027946`. Operator confirmed on 2026-11-25 that the founder personally owns and responds to incoming inquiries. Public contact identity/title and response hours remain NOT_PROVIDED.
 - Secondary visitor task: inspect selected work/examples and understand package differences.
 - Offer readiness: Starter is the current proven baseline. Business is in development / not production-approved. Custom is future / not developed / not production-approved.
 - Starter commercial reference: IDR 1,500,000; current validity, public display decision, inclusions, revision limits and quote policy are NOT_CONFIRMED.
@@ -53,7 +53,7 @@
 - Proposed features: anchor navigation, real WhatsApp link, approved demo links, responsive layout, basic metadata and accessibility. Not yet approved.
 - Backend/database/CMS: not required for initial scope according to intake.
 - Language: NOT_CONFIRMED (Indonesian only vs bilingual).
-- WhatsApp Business number approved for public website display: `+6281246027946` (operator supplied 2026-11-25). Inquiry response owner, public contact identity/title and response hours/process: NOT_PROVIDED.
+- WhatsApp Business number approved for public website display: `+6281246027946` (operator supplied 2026-11-25). Inquiry response owner: founder personally (operator-confirmed 2026-11-25). Public contact identity/title and response hours/process: NOT_PROVIDED.
 - Target audience: operator selected UMKM across industries as the initial audience on 2026-11-25. This is the initial broad segment; sub-segmentation and message prioritization remain for PRD. Public service geography: nationwide Indonesia, remote delivery, explicitly confirmed on 2026-11-25.
 - Starter public price and exact inclusions/revisions: NOT_CONFIRMED.
 - Delivery, source ownership/handover, maintenance, domain and hosting policies: NOT_CONFIRMED.
@@ -91,7 +91,7 @@
 - Implementation: NOT_STARTED.
 - Asset sources / permissions / attribution: NOT_VERIFIED; no assets approved yet.
 - External code/components adopted: NONE.
-- Real integrations: no backend integrations configured. WhatsApp destination supplied by operator: `https://wa.me/6281246027946`; link implementation/QA pending. Inquiry response owner/hours remain NOT_PROVIDED. No simulated form may be presented as live.
+- Real integrations: no backend integrations configured. WhatsApp destination supplied by operator: `https://wa.me/6281246027946`; link implementation/QA pending. Inquiry response owner: founder personally; response hours remain NOT_PROVIDED. No simulated form may be presented as live.
 - Local preview / browser QA: NOT_STARTED. Browser capability must be verified before visual QA.
 - V0 → meaningful V1 correction → re-verification: NOT_STARTED.
 - Security: apply ADES Core Security & Deployment Standard proportionately; no live deployment checks claimed.
@@ -114,7 +114,7 @@
 ## 9. Outcome and traceability snapshot
 
 - Primary visitor task: understand the ADES offer and package readiness, then make a relevant inquiry through an approved real contact channel.
-- WhatsApp CTA destination: `https://wa.me/6281246027946` (number supplied and approved by operator for public display on 2026-11-25). Response owner and hours: NOT_PROVIDED.
+- WhatsApp CTA destination: `https://wa.me/6281246027946` (number supplied and approved by operator for public display on 2026-11-25). Response owner: founder personally (operator-confirmed 2026-11-25); response hours: NOT_PROVIDED.
 - Verified offer boundaries: Starter proven; Business in development/not production-approved; Custom future/not production-approved.
 - Research-to-design traceability: NOT_STARTED.
 - Section-level media and interaction plan: NOT_STARTED.
