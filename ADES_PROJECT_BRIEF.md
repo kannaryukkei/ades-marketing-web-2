@@ -33,12 +33,13 @@
 
 ## 2. Business and visitor outcome
 
+- Public brand/name: `ADES` only, explicitly selected by operator on 2026-11-25. Do not expand the public-facing name to the full acronym or add the founder's personal name unless separately approved.
 - Offer: ADES provides website design and development supported by AI-assisted research, design exploration, synthesis, frontend implementation, QA and deployment preparation.
 - Primary audience: operator selected UMKM across industries as the initial audience on 2026-11-25. The specific sub-segment and message hierarchy remain to be defined in PRD; the Intake's local-service/professional-services framing remains a recommendation, not a restriction.
 - Market: Surabaya, Indonesia is the confirmed operating base; operator confirmed on 2026-11-25 that public service geography is nationwide across Indonesia, delivered remotely. Do not imply that ADES has local offices or in-person coverage throughout Indonesia.
 - Business goal: market ADES services and generate relevant prospective-client inquiries.
 - Primary visitor task: understand ADES offer and package readiness, establish trust, and contact ADES through a real approved channel.
-- Primary conversion: WhatsApp inquiry. Operator supplied and approved WhatsApp Business number `+6281246027946` for website display on 2026-11-25; canonical click destination can use `https://wa.me/6281246027946`. Operator confirmed on 2026-11-25 that the founder personally owns and responds to incoming inquiries. Public contact identity/title remains NOT_PROVIDED. Response availability is founder-dependent: the founder may respond at any time, including outside fixed business hours, while active/available; this is not a guaranteed 24/7 monitored response or SLA.
+- Primary conversion: WhatsApp inquiry. Operator supplied and approved WhatsApp Business number `+6281246027946` for website display on 2026-11-25; canonical click destination can use `https://wa.me/6281246027946`. Operator confirmed on 2026-11-25 that the founder personally owns and responds to incoming inquiries. Public contact identity/title remains NOT_PROVIDED; public brand name is `ADES` only (operator-confirmed 2026-11-25). Response availability is founder-dependent: the founder may respond at any time, including outside fixed business hours, while active/available; this is not a guaranteed 24/7 monitored response or SLA.
 - Secondary visitor task: inspect selected work/examples and understand package differences.
 - Offer readiness: Starter is the current proven baseline. Business is in development / not production-approved. Custom is future / not developed / not production-approved.
 - Starter commercial reference: IDR 1,500,000; current validity, public display decision, inclusions, revision limits and quote policy are NOT_CONFIRMED.
@@ -57,7 +58,7 @@
 - Target audience: operator selected UMKM across industries as the initial audience on 2026-11-25. This is the initial broad segment; sub-segmentation and message prioritization remain for PRD. Public service geography: nationwide Indonesia, remote delivery, explicitly confirmed on 2026-11-25.
 - Starter public price and exact inclusions/revisions: NOT_CONFIRMED.
 - Delivery, source ownership/handover, maintenance, domain and hosting policies: NOT_CONFIRMED.
-- Public name/title/social channels and final logo/brand assets: NOT_PROVIDED.
+- Public name: `ADES` only, operator-confirmed 2026-11-25. Founder public title and social channels: NOT_PROVIDED; final logo/brand assets: NOT_PROVIDED.
 - NARA provenance/publication permission: NOT_VERIFIED. Nusa Forma: synthetic concept imagery; must be labelled concept/demo.
 - Visual direction: initial recommendation premium/editorial with strong hierarchy; not approved. ADES colours/type/logo identity are not frozen. Do not reuse Zacks Detailing identity.
 - In scope / out of scope / acceptance criteria: to be finalized in PRD.
