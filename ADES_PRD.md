@@ -2,7 +2,7 @@
 
 **PRD ID:** ADES-MW-PRD  
 **Version:** 0.1  
-**Status:** DRAFT — awaiting explicit operator approval  
+**Status:** APPROVED BY OPERATOR — exact version v0.1 approved 2026-11-25  
 **Prepared:** 2026-11-25  
 **Project:** ADES Marketing Website  
 **Entry path:** `new_build`  
