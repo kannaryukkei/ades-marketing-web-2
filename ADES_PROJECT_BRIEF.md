@@ -13,7 +13,7 @@
 - Repository state at G0 check: public; default branch `main`; latest website-repository commit verified as `d043dd29e02209cd253da8dc299999233054e4c3` (Brief update); active `ADES_PROJECT_BRIEF.md` exists; no website implementation/source files yet. GitHub connector read/write path verified by successful fetch and sequential Brief update; prior permission check reported admin/push/pull.
 - Local clone: operator reports clone at `C:\\Users\\Aman Nauli\\downloads\\ades-marketing-web-2`; operator verified current PowerShell location. Local working-tree/remote configuration not independently inspected by Lead.
 - ADES Core repository: https://github.com/kannaryukkei/ai-design-exploration-synthesis
-- ADES Core baseline: default branch `main`; commit `f27b65bf0264d2f01cc4d98e764ea9777e3153b8`; commit date 2026-11-23; signed commit verified by GitHub. Canonical paths at this revision: `core/ADES_GUIDE.md`, `core/ADES_PROJECT_BRIEF.md`, `core/ADES_CLIENT_INTAKE.md`, `products/starter/PRODUCT_PROFILE.md`, `core/ADES_SECURITY_AND_DEPLOYMENT_STANDARD.md`. Uploaded Guide, blank Brief and Starter Profile hashes matched Core canonical files. Project-specific intake is `ADES_MARKETING_WEB_CLIENT_INTAKE.md`.
+- ADES Core baseline: default branch `main`; commit `f27b65bf0264d2f01cc4d98e764ea9777e3153b8`; commit date 2026-11-23; signed commit verified by GitHub. Canonical paths at this revision: `core/ADES_GUIDE.md`, `core/ADES_PROJECT_BRIEF.md`, `core/ADES_CLIENT_INTAKE.md`, `products/starter/PRODUCT_PROFILE.md`, `core/ADES_SECURITY_AND_DEPLOYMENT_STANDARD.md`. Uploaded Guide, blank Brief and Starter Profile hashes matched Core canonical files. Current operator-supplied project-specific Client Intake: `ADES_MARKETING_WEB_CLIENT_INTAKE.md`, re-supplied in this conversation on 2026-11-25 and accepted as the active discovery input. It is a personalized copy of the Core Client Intake; status labels ([TERKONFIRMASI], [REKOMENDASI], [PERLU KONFIRMASI], [BATAS PUBLIK]) must be preserved. It is not a PRD or approval.
 - Business mode: `studio_development` (operator-selected).
 - ADES mode: `single_agent_end_to_end` (operator-selected).
 - Lead / Governance Lead: GPT-6 (OpenAI / ChatGPT), explicitly appointed by operator as Lead. Runtime build/version: NOT_EXPOSED. Governance function remains with the appointed Lead under the single-agent mode.
@@ -28,26 +28,26 @@
 - Current stage: G1 — Intake, discovery and strategy, IN_PROGRESS (G0 PASS).
 - Overall status: IN_PROGRESS.
 - Last verified state: operator confirmed Lead appointment, Product Profile `starter`, and entry path `new_build`; business mode `studio_development`; ADES mode `single_agent_end_to_end`; exact Lead/Execution Agent identity and non-applicable jury roster recorded. Core default branch `main` latest commit verified as `f27b65bf0264d2f01cc4d98e764ea9777e3153b8`; Guide, Core Brief template, Core Client Intake, Security Standard and Starter Profile fetched from that revision, with canonical hashes consistent with the previously verified baseline. Website repo `main` head verified as `d043dd29e02209cd253da8dc299999233054e4c3`; active Brief read/write verified. Current ChatGPT Lead workspace context and tool capabilities recorded. Operator-provided UI UX Pro Max CLI 2.15.0/Python 3.15.1 verification and `landing.csv` search returning 3 records retained as local environment evidence.
-- Next action: continue G1 discovery, resolve the primary audience/segment and material public-facing business facts with one focused operator question at a time; prepare the exact PRD only after sufficient discovery.
+- Next action: use the re-supplied personalized Client Intake as the current discovery source without re-asking confirmed fields; resolve only its [PERLU KONFIRMASI] items one focused decision at a time; prepare the exact PRD only after sufficient discovery.
 - Approval required: no R1 or design direction approval has been given; no deployment, DNS, spending, third-party contact, or public release authorized.
 
 ## 2. Business and visitor outcome
 
 - Offer: ADES provides website design and development supported by AI-assisted research, design exploration, synthesis, frontend implementation, QA and deployment preparation.
-- Primary audience: prospective small businesses, local service businesses and professional services; precise first segment remains to be confirmed.
-- Market: Surabaya, Indonesia is the stated operating base; public service geography remains unresolved.
+- Primary audience: Intake recommends UMKM and local service/professional businesses needing a credible website and inquiry path; this is a recommendation, not an operator-approved target. Exact first segment remains to be confirmed.
+- Market: Surabaya, Indonesia is the confirmed operating base; public service geography (Surabaya/Sidoarjo, nationwide remote, or both) remains unresolved.
 - Business goal: market ADES services and generate relevant prospective-client inquiries.
 - Primary visitor task: understand ADES offer and package readiness, establish trust, and contact ADES through a real approved channel.
-- Proposed primary conversion: WhatsApp inquiry; official destination and response owner are NOT_PROVIDED.
+- Proposed primary conversion: WhatsApp inquiry; official URL/number, public contact identity and response owner are NOT_PROVIDED.
 - Secondary visitor task: inspect selected work/examples and understand package differences.
 - Offer readiness: Starter is the current proven baseline. Business is in development / not production-approved. Custom is future / not developed / not production-approved.
-- Starter commercial reference: IDR 1,500,000; current public price, inclusions, revision limits and quote policy are NOT_CONFIRMED.
+- Starter commercial reference: IDR 1,500,000; current validity, public display decision, inclusions, revision limits and quote policy are NOT_CONFIRMED.
 - Material content constraints: no invented testimonials, client results, certifications, awards or metrics. Nusa Forma visuals must be labelled concept/demo, not real client work. NARA provenance and publication permission require verification before portfolio use.
 - Operational / privacy / rights constraints: no form represented as live without a real authorized endpoint and response owner; verify asset rights; no unsupported security, SEO or business-outcome guarantees.
 
 ## 3. Approved scope
 
-- PRD version: NOT_CREATED. Intake is discovery input, not an approved PRD.
+- PRD version: NOT_CREATED. The active personalized Client Intake supplied by the operator is discovery input, not an approved PRD.
 - Intended outcome: one public-facing, single-page, static-first marketing website, subject to final PRD and operator approval.
 - Proposed sections from intake: hero; problem/outcome; Starter/Business/Custom package comparison; selected work; process; why ADES; FAQ; final CTA. Not yet approved.
 - Proposed features: anchor navigation, real WhatsApp link, approved demo links, responsive layout, basic metadata and accessibility. Not yet approved.
