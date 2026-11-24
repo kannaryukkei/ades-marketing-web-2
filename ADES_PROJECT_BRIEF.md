@@ -49,11 +49,11 @@
 ## 3. Approved scope
 
 - PRD version: NOT_CREATED. The active personalized Client Intake supplied by the operator is discovery input, not an approved PRD.
-- Intended outcome: one public-facing, single-page, static-first marketing website, subject to final PRD and operator approval.
+- Intended outcome: one public-facing, bilingual (Indonesian and English), single-page, static-first marketing website, subject to final PRD and operator approval.
 - Proposed sections from intake: hero; problem/outcome; Starter/Business/Custom package comparison; selected work; process; why ADES; FAQ; final CTA. Not yet approved.
 - Proposed features: anchor navigation, real WhatsApp link, approved demo links, responsive layout, basic metadata and accessibility. Not yet approved.
 - Backend/database/CMS: not required for initial scope according to intake.
-- Language: NOT_CONFIRMED (Indonesian only vs bilingual).
+- Language: bilingual Indonesian and English, explicitly selected by operator on 2026-11-25. Translation workflow, language switch behavior, and whether all sections/SEO metadata are fully localized remain to be specified in PRD.
 - WhatsApp Business number approved for public website display: `+6281246027946` (operator supplied 2026-11-25). Inquiry response owner: founder personally (operator-confirmed 2026-11-25). Public contact identity/title remains NOT_PROVIDED. Response availability: founder replies when active/available, potentially at any time; do not imply guaranteed 24/7 monitoring or a response-time SLA.
 - Target audience: operator selected UMKM across industries as the initial audience on 2026-11-25. This is the initial broad segment; sub-segmentation and message prioritization remain for PRD. Public service geography: nationwide Indonesia, remote delivery, explicitly confirmed on 2026-11-25.
 - Starter public price and exact inclusions/revisions: NOT_CONFIRMED.
