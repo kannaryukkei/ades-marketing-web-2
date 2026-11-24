@@ -7,8 +7,8 @@
 ## 1. Project control
 
 - Project / business: ADES Marketing Website — internal studio development.
-- Product Profile: `starter` — ADES Starter, version `0.1.0`, status CURRENT PROVEN PRODUCTION BASELINE; Core path `products/starter/PRODUCT_PROFILE.md`.
-- Project entry path: `new_build` (confirmed by project intake).
+- Product Profile: `starter` is named as selected in the supplied project intake; ADES Starter, version `0.1.0`, status CURRENT PROVEN PRODUCTION BASELINE; Core path `products/starter/PRODUCT_PROFILE.md`. Separate explicit operator confirmation has not yet been captured.
+- Project entry path: `new_build` (stated in supplied project intake; separate explicit operator confirmation has not yet been captured).
 - Website repository: https://github.com/kannaryukkei/ades-marketing-web-2
 - Repository state at G0 check: public; default branch `main`; repository size 0; no branches or commits returned; no website source files yet. GitHub connector permissions: admin/push/pull verified.
 - Local clone: operator reports clone at `C:\\Users\\Aman Nauli\\downloads\\ades-marketing-web-2`; operator verified current PowerShell location. Local working-tree/remote configuration not independently inspected by Lead.
